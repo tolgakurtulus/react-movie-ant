@@ -1,0 +1,10 @@
+.c-form {
+  &__button {
+    button {
+      margin-right: 15px;
+    }
+  }
+  :global(.ant-form-item-label) {
+    text-align: left !important;
+  }
+}
